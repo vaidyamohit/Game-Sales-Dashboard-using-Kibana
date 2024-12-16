@@ -1,5 +1,15 @@
 # Game-Sales-Dashboard-using-Kibana
 
+Acknowledgement for the Dataset - [Video Game Sales](https://www.kaggle.com/datasets/gregorut/videogamesales)
+
+**Project Made by :**
+
+**Agathiyan K (045005)**
+
+**Mohit Vaidya (045032)**
+
+**Shantanu Bharvirkar (045055)**
+
 ## Dataset Description
 •	Total Rows: 16,598
 
