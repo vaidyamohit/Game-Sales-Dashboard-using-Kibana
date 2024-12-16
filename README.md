@@ -2,6 +2,7 @@
 
 ## Dataset Description
 •	Total Rows: 16,598
+
 •	Columns: 11
 
 ### Column Descriptions:
@@ -22,19 +23,27 @@
 ### Key Observations:
 
 •	Year: Ranges from 1980 to 2020, but there are missing values in 271 entries.
+
 •	Sales Columns: Global sales are broken down into specific regions: NA, EU, JP, and Others.
+
 •	Popular Genre: "Action" appears most frequently (3,316 times).
+
 •	Top Publisher: "Electronic Arts" has the highest count (1,351 entries).
+
 
 ### Summary Statistics:
 
 •	Sales (in millions): 
+
 o	Average global sales: 0.54 million units.
+
 o	Maximum global sales: 82.74 million units.
+
 •	Rank: Ranges from 1 (highest) to 16,600 (lowest).
 
 ### Missing Data:
 •	Year: Missing in 271 rows.
+
 •	Publisher: Missing in 58 rows.
 
 
